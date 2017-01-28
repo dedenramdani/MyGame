@@ -36,4 +36,3 @@ if(angkatebakan == angkaAcak){
 
 
 
-https://jsbin.com/kuquce/edit?js,console
