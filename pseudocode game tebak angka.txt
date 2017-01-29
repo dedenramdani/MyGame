@@ -1,0 +1,19 @@
+Perkenalan
+
+game menebak angka yang akan muncul dari hasil random Math build-in di javascript.
+Game sederhana ini user hanya memasukan angka di deklarasi variable di baris awal kode.
+adapun angka yang harus diinputkan hanya sebatas 0 sampai 9.
+
+
+
+BACA dan SIMPAN "angkatebakan"
+BACA dan SIMPAN VARIABLE SAMA DENGAN Fungsi "Random" 
+        DEKLARASIKAN variable array mulai dari angka 0 s.d 9
+        DEKLARASIKAN variable acak "HITUNG array[Mathfloor(Math.random() dikali jumlah array)];
+
+TAMPILKAN "angkatabakan"
+
+   IF angkatebakan SAMA DENGAN angkaacak
+   TAMPILKAN "Selamat ajwaban anda benar"
+   ELSE "Anda belum beruntung , jawaban anda salah"
+ENDIF
